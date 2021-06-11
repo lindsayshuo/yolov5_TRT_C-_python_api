@@ -1,0 +1,5 @@
+# 1 prepare - build lib
+make sure to change yololayer.h , change INPUT_W, INPUT_H , class_num 
+
+# 2 install 
+python3 setup.py install 
