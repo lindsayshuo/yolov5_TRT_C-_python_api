@@ -1,0 +1,8 @@
+setup.py
+yolov5_trt_py_module.cpp
+TRTYolov5.egg-info/PKG-INFO
+TRTYolov5.egg-info/SOURCES.txt
+TRTYolov5.egg-info/dependency_links.txt
+TRTYolov5.egg-info/not-zip-safe
+TRTYolov5.egg-info/top_level.txt
+pyboostcvconverter/pyboost_cv4_converter.cpp
